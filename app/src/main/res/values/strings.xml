@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Puzzle</string>
+    <string name="action_settings">Help</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="cont">Continue?</string>
+    <string name="easy">EASY</string>
+    <string name="hard">HARD</string>
+    <string name="nature">Nature</string>
+    <string name="photos">Photos</string>
+    <string name="help">Tap to continue!</string>
+</resources>

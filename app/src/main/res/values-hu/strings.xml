@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Puzzle</string>
+    <string name="action_settings">Segítség</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="cont">Folytatás?</string>
+    <string name="easy">KÖNNYŰ</string>
+    <string name="hard">NEHÉZ</string>
+    <string name="nature">Természet</string>
+    <string name="photos">Fotók</string>
+    <string name="help">Érints a folytatáshoz!</string>
+</resources>

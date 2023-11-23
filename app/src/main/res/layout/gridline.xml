@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+
+    <landroo.org.puzzle.SquareImageView
+        android:id="@+id/grid_item_image"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:padding="10dp"
+        android:background="@drawable/btn_states1"
+        android:src="@drawable/camera" />
+    <!--
+        <landroo.org.puzzle.UrlImageView
+            android:id="@+id/grid_item_image"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:contentDescription="@string/hello_world"
+            android:gravity="center"
+            android:scaleType="centerCrop"
+            android:layout_margin="10dp"
+            android:padding="10dp"
+            android:background="@drawable/btn_states1"
+            android:src="@drawable/grid" />
+    -->
+</LinearLayout>
